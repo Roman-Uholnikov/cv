@@ -1,5 +1,5 @@
-# Roman Uholnikov
-ugolnikovroman@gmail.com · [LinkedIn](https://www.linkedin.com/in/roman-uholnikov/) · 
+# Contact info
+img ugolnikovroman@gmail.com · [LinkedIn](https://www.linkedin.com/in/roman-uholnikov/) · 
 TODO add icon of linkedin, of gmail.
 
 ---
