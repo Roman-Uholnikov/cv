@@ -1,20 +1,21 @@
 # Contact info
-img ugolnikovroman@gmail.com · [LinkedIn](https://www.linkedin.com/in/roman-uholnikov/) · 
-TODO add icon of linkedin, of gmail.
+![](img/gmail1.png){width=15} ugolnikovroman@gmail.com · ![](img/linkedin.png){width=15} [LinkedIn](https://www.linkedin.com/in/roman-uholnikov/) · 
 
 ---
 
 ## Professional Summary
-Engineering Manager / Engineering Leader with 12+ years of experience across backend engineering, cloud infrastructure, team leadership, and high‑scale system delivery. Experienced in Java ecosystems, Spring frameworks, distributed systems, AWS, DevOps tooling, and leading engineering teams at global technology companies. 
+Engineering Manager / Engineering Leader with 12+ years of experience across backend engineering, cloud infrastructure, team leadership, and high‑scale system delivery. Experienced in Java ecosystems, Spring frameworks, distributed systems, AWS, DevOps tooling, and leading engineering teams at global technology companies.  
 
 ---
-TODO make add images of the certs
-## Certifications
-- **AWS Certified Solutions Architect – Professional** — [AWS, issued 2020–2023](https://www.credly.com/badges/1cf4aca5-815b-4d2d-a2e6-63264191a87e/public_url)
+## Certifications 
+![](img/saa.png){width=70} ![](img/sap.png){width=70} ![](img/sec.png){width=70}
+
+- **AWS Certified Solutions Architect – Professional** — [AWS, issued 2020–2023](https://www.credly.com/badges/1cf4aca5-815b-4d2d-a2e6-63264191a87e/public_url) 
 - **AWS Certified Security – Specialty** — [AWS, issued 2019–2022](https://www.credly.com/badges/21dfb7c5-9556-4678-ae65-2b619e1a7d39/public_url)
 - **AWS Certified Solutions Architect – Associate** — [AWS, issued 2019–2022](https://www.credly.com/badges/0bbfe174-1ea6-4120-98e7-1a84d197c8de/public_url)
 - **IELTS Academic** — British Council, 2017–2019 · Cert ID: 17UA001017UHOR020A   
 - **Hippo Certified Developer** — Hippo CMS 
+
 
 ---
 
@@ -66,9 +67,9 @@ TODO make add images of the certs
 
 ---
 
-### **Senior Java Developer — Infopulse**  
-**Dates:** 09.2016 – 03.2018   
-**Technologies Used:** Java, Spring (Boot, Cloud, Config, MVC), SQL, Hippo CMS, MySQL, MSSQL, Selenium, Hibernate, Tomcat, Jenkins, Docker, Liquibase , JMS
+### **Senior Java Developer, Tech lead — Infopulse**  
+**Dates:** 09.2016 – 03.2018 (1.8 years)   
+**Technologies Used:** Java, Spring (Boot, Cloud, Config, MVC), MySQL, MSSQL, Selenium, Hibernate, Tomcat, Jenkins, Docker, Liquibase , JMS
 **What Was Done:**
 - Delivered enterprise-grade Java backend solutions across multiple customer projects.  
 - Developed REST services, data integrations, and CMS-driven features.  
@@ -78,4 +79,23 @@ TODO make add images of the certs
 
 ### **Java Developer — Levi9**  
 **Dates:** 02.2014 – 08.2016 (2.6 years)   
-**Technologies Used:** Java, Spring (Security, ACL, Web), RDBMS (MySQL, Oracle, DB2, MSSQL), Hibernate, Spring Integration 
+**Technologies Used:** Hippo CMS, Java EE 6/8, JCR(Jackrabbit), Groovy, JSP, Tomcat 7, Maven 3, JUnit 4, Mockito, Java EE 8, Spring (Core, MVC, Security, Boot, Security), Hibernate, JSP, Gradle, REST Assured, RAML, Docker, Sonarqube, GoCD (CI), Liquibase 
+**What Was Done:**
+- developing new functionality and modules, fixing bugs
+- writing unit and automation tests
+- daily communication with client
+- working in distributed team
+- facilitating scrum events (demo’s, retrospectives, stand-ups) 
+
+___
+
+### **Sofware Developer — Energotrans**  
+**Dates:** 02.2013 – 01.2014 (1 years)   
+**Technologies Used:** MSSQL, JSP, Struts, Spring IoC, Spring Data, JSF, Primefaces, Hibernate, NetBeans, PHP
+**What Was Done:**
+- Migrating legacy software from Windows Desktop(.NET Framework + MSSQL) to Java Web Application 
+- Designing (Transact SQL) storage procedures
+
+---
+## Education
+s
