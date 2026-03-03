@@ -8,10 +8,9 @@ Engineering Manager / Engineering Leader with 12+ years of experience across bac
 
 ---
 ## Certifications 
-![](img/saa.png){width=70} ![](img/sap.png){width=70} ![](img/sec.png){width=70}
-
-<img src="/cv/img/sap.png" alt="test" />{width=70}
-<img src="img/sap.png" alt="test1" />{width=70}
+<img src="img/sap.png" alt="test1" width=70/>
+<img src="img/sec.png" alt="test1" width=70/>
+<img src="img/saa.png" alt="test1" width=70/>
 
 - **AWS Certified Solutions Architect – Professional** — [AWS, issued 2020–2023](https://www.credly.com/badges/1cf4aca5-815b-4d2d-a2e6-63264191a87e/public_url) 
 - **AWS Certified Security – Specialty** — [AWS, issued 2019–2022](https://www.credly.com/badges/21dfb7c5-9556-4678-ae65-2b619e1a7d39/public_url)
@@ -107,4 +106,9 @@ ___
 
 ---
 ## Education
-s
+
+2009-2013 Master's degree. Computer science, network engineering. 
+_Donetsk National Technical University, Ukraine_
+
+2005-2009 Associate Degree. Computer Software Engineering
+_Donetsk Polytechnic Technical School, Ukraine_
