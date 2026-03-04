@@ -4,7 +4,7 @@
 ---
 
 ## Professional Summary
-Engineering Manager / Engineering Leader with 12+ years of experience across backend engineering, cloud infrastructure, team leadership, and high‑scale system delivery. Experienced in Java ecosystems, Spring frameworks, distributed systems, AWS, DevOps tooling, and leading engineering teams at global technology companies.  
+Engineering Manager / Engineering Leader with 12+ years of experience across backend engineering, cloud infrastructure, team leadership, and high‑scale system delivery. Experienced in Java ecosystems, Spring frameworks, distributed systems, AWS, DevOps tooling, and leading engineering teams withing global technology companies.  
 
 ---
 ## Certifications 
@@ -29,13 +29,14 @@ Engineering Manager / Engineering Leader with 12+ years of experience across bac
 **Technologies Used:** SSI, cryptography, Identity, OID4vp , Ory (OAuth2 server), AWS (primarily serviceless, CDK), Prometheus, K8N, ELK, HashiCorp Vault, Docker, NodeJs, Go, Dart, Rust, Flutter, Postgress , Terraform
 
 **What Was Done:**
-- Established and later restructured and unified on-call practice across the development department, bringing a consistent and well-organized on-call schedule and breaking knowledge silos across engineering teams. That reduced the number of external user incidents and reduced the reaction time on the incident
--  Restructured and reorganized way of working across the development department, brought structure and clarity while keeping the engineering department flexible and adaptive to business requests. 
-- Took leadership of the overall Engineering team, meanwhile managed stable and predictable delivery across the department via defining and aligning SSDLC across the engineering department 
+- Took leadership of the overall Engineering departmenet, meanwhile managed stable and predictable delivery across the department via defining and aligning SSDLC across the engineering domain 
 - Build a diverse (20+ nationalities), High-Performing Team Culture by talent development, hiring, and performance management. Acted as a hiring manager for dozens of roles (from Interns to Engineering Managers).  
 - Contribute to architecture and code for scalable backend services and platform components. Enabled teams to be a self-sufficient engineering team that doesn't rely on external knowledge (platform). 
 - Organized company-wide workshops/hackathons/Demos required to keep the organization aligned, informed, and engaged
 - Driven high‑risk, business‑critical project delivery (different domains, mobile/backend/frontend) and mentored other managers to elevate execution standards.
+- Manage resource allocation and workload distribution to optimize team efficiency and productivity.
+- Established and later restructured and unified on-call practice across the development department, bringing a consistent and well-organized on-call schedule and breaking knowledge silos across engineering teams. That reduced the number of external user incidents and reduced the reaction time on the incident
+- Restructured and reorganized way of working across the development department, brought structure and clarity while keeping the engineering department flexible and adaptive to business requests. 
 
 ### **Engineering Leader — Affinidi**  
 **Location:** Singapore/Germany/Remote  
