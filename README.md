@@ -1,10 +1,10 @@
 # Contact info
-<img src="img/gmail1.png" width=15/> ugolnikovroman@gmail.com · <img src="img/linkedin.png" width=15/> [LinkedIn](https://www.linkedin.com/in/roman-uholnikov/) · 
+<img src="img/gmail1.png" width=15/> [ugolnikovroman@gmail.com](mailto:ugolnikovroman@gmail.com) · <img src="img/linkedin.png" width=15/> [linkedin.com/in/roman-uholnikov](https://www.linkedin.com/in/roman-uholnikov/) 
 
 ---
 
 ## Professional Summary
-Engineering Manager / Engineering Leader with 12+ years of experience across backend engineering, cloud infrastructure, team leadership, and high‑scale system delivery. Experienced in Java ecosystems, Spring frameworks, distributed systems, AWS, DevOps tooling, and leading engineering teams withing global technology companies.  
+Engineering Manager / Engineering Leader with 12+ years of experience across backend engineering, cloud infrastructure, team leadership, and high‑scale system delivery. Experienced in Java ecosystems, Spring frameworks, distributed systems, AWS, DevOps tooling, and leading engineering teams within global technology companies.  
 
 ---
 ## Certifications 
@@ -29,7 +29,7 @@ Engineering Manager / Engineering Leader with 12+ years of experience across bac
 **Technologies Used:** SSI, cryptography, Identity, OID4vp , Ory (OAuth2 server), AWS (primarily serviceless, CDK), Prometheus, K8N, ELK, HashiCorp Vault, Docker, NodeJs, Go, Dart, Rust, Flutter, Postgress , Terraform
 
 **What Was Done:**
-- Took leadership of the overall Engineering departmenet, meanwhile managed stable and predictable delivery across the department via defining and aligning SSDLC across the engineering domain 
+- Took leadership of the overall Engineering department, meanwhile managed stable and predictable delivery across the department via defining and aligning SSDLC across the engineering domain 
 - Build a diverse (20+ nationalities), High-Performing Team Culture by talent development, hiring, and performance management. Acted as a hiring manager for dozens of roles (from Interns to Engineering Managers).  
 - Contribute to architecture and code for scalable backend services and platform components. Enabled teams to be a self-sufficient engineering team that doesn't rely on external knowledge (platform). 
 - Organized company-wide workshops/hackathons/Demos required to keep the organization aligned, informed, and engaged
@@ -61,16 +61,28 @@ Engineering Manager / Engineering Leader with 12+ years of experience across bac
 - Collaborated with product and engineering teams on platform/product enhancements.
 
 ---
+### **Engineering Manager  — Conductor, Inc.**  
+**Dates:** 03.2019 – 06.2021 (2.3 years)  
+**Technologies Used:** Java, Spring (Core, MVC, Data, Cloud, Security), AWS, Docker/Kubernetes, Jenkins, GoCD, Selenium, Snowflake, Mockito, SQL/Transact SQL,  Contract tests (Spring, Pact), K8N, Istio, Helm, 
 
-### **Manager, Engineering — Conductor, Inc.**  
-**Dates:** 04.2018 – 06.2021 (3.3 years)  
+**What Was Done:**
+- Led a team of 12 engineers in designing and delivering high‑scale, distributed software solutions.
+- Drove hiring efforts for my team and supported hiring across multiple engineering teams.
+- Managed engineers’ professional growth, including performance management, coaching low performers, and recognizing and promoting high performers. 
+- Oversaw the full software development lifecycle, defining processes and ensuring alignment across all phases.
+- Owned end‑to‑end program delivery, including planning, execution, risk management, release readiness, and production support for complex products. 
+
+
+### **Tech Lead — Conductor, Inc.**  
+**Dates:** 04.2018 – 03.2019 (1 year)  
 **Technologies Used:** Java, Spring (Core, MVC, Data, Cloud, Security), AWS, Docker/Kubernetes, Jenkins, GoCD, Selenium, Snowflake, Mockito, SQL/Transact SQL,  Contract tests (Spring, Pact), K8N, Istio, Helm, 
 
 **What Was Done:**
 - Led a team of 5 developers designing and implementing high‑scale software solutions. 
-- Previously served as **Java Tech Lead**, contributing to architectural decisions and hands‑on development.  
+- Was accountable and contributed to architectural decisions and hands‑on development.  
 - Delivered backend services and enterprise features using Java/Spring and CI/CD tooling.  
 - Lead team though Agile/Scrum processes, ensuring quality and delivery reliability.
+
 
 ---
 
@@ -79,6 +91,7 @@ Engineering Manager / Engineering Leader with 12+ years of experience across bac
 **Technologies Used:** Java, Spring (Boot, Cloud, Config, MVC), MySQL, MSSQL, Selenium, Hibernate, Tomcat, Jenkins, Docker, Liquibase , JMS
 
 **What Was Done:**
+- Lead migration of 50+ SVN projects to Git
 - Delivered enterprise-grade Java backend solutions across multiple customer projects.  
 - Developed REST services, data integrations, and CMS-driven features.  
 - Improved automation and CI/CD pipelines with Jenkins, Docker, Liquibase. 
@@ -90,11 +103,11 @@ Engineering Manager / Engineering Leader with 12+ years of experience across bac
 **Technologies Used:** Hippo CMS, Java EE 6/8, JCR(Jackrabbit), Groovy, JSP, Tomcat 7, Maven 3, JUnit 4, Mockito, Java EE 8, Spring (Core, MVC, Security, Boot, Security), Hibernate, JSP, Gradle, REST Assured, RAML, Docker, Sonarqube, GoCD (CI), Liquibase 
 
 **What Was Done:**
-- developing new functionality and modules, fixing bugs
-- writing unit and automation tests
-- daily communication with client
-- working in distributed team
-- facilitating scrum events (demo’s, retrospectives, stand-ups) 
+- Developed new functionality and modules, fixing bugs
+- Wrote unit and automation tests
+- Lead daily communication with client
+- Worked in distributed team
+- Facilitated  scrum events (demo’s, retrospectives, stand-ups) 
 
 ___
 
@@ -102,8 +115,8 @@ ___
 **Dates:** 02.2013 – 01.2014 (1 years)   
 **Technologies Used:** MSSQL, JSP, Struts, Spring IoC, Spring Data, JSF, Primefaces, Hibernate, NetBeans, PHP
 **What Was Done:**
-- Migrating legacy software from Windows Desktop(.NET Framework + MSSQL) to Java Web Application 
-- Designing (Transact SQL) storage procedures
+- Migrated legacy software from Windows Desktop(.NET Framework + MSSQL) to Java Web Application 
+- Designed (Transact SQL) storage procedures
 
 ---
 ## Education
