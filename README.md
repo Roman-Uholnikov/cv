@@ -4,7 +4,7 @@
 ---
 
 ## Professional Summary
-Engineering Manager / Engineering Leader with 12+ years of experience across backend engineering, cloud infrastructure, team leadership, and high‑scale system delivery. Experienced in Java ecosystems, Spring frameworks, distributed systems, AWS, DevOps tooling, and leading engineering teams within global technology companies.  
+Engineering Manager / Engineering Leader with 12+ years of experience across backend engineering, cloud infrastructure, mobile development, team leadership, and high‑scale system delivery. Experienced in Java ecosystems, Spring frameworks, distributed systems, AWS, DevOps tooling, and leading engineering teams within global technology companies.  
 
 ---
 ## Certifications 
