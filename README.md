@@ -26,7 +26,7 @@ Engineering Manager / Engineering Leader with 12+ years of experience across bac
 ### **Senior Engineering Manager — Affinidi**  
 **Location:** Singapore/Germany/Remote  
 **Dates:** 03.2024 – Present (2 years)   
-**Technologies Used:** SSI, cryptography, Identity, OID4vp , Ory (OAuth2 server), AWS (primarily serviceless, CDK), Prometheus, K8N, ELK, HashiCorp Vault, Docker, NodeJs, Go, Dart, Rust, Flutter, Postgress , Terraform
+**Technologies Used:** SSI, cryptography, Identity, OID4vp , Ory (OAuth2 server), AWS (primarily serverless, CDK), Prometheus, K8N, ELK, HashiCorp Vault, Docker, NodeJs, Go, Dart, Rust, Flutter, PostgreSQL , Terraform
 
 **What Was Done:**
 - Took leadership of the overall Engineering department, meanwhile managed stable and predictable delivery across the department via defining and aligning SSDLC across the engineering domain 
@@ -81,7 +81,7 @@ Engineering Manager / Engineering Leader with 12+ years of experience across bac
 - Led a team of 5 developers designing and implementing high‑scale software solutions. 
 - Was accountable and contributed to architectural decisions and hands‑on development.  
 - Delivered backend services and enterprise features using Java/Spring and CI/CD tooling.  
-- Lead team though Agile/Scrum processes, ensuring quality and delivery reliability.
+- Led team though Agile/Scrum processes, ensuring quality and delivery reliability.
 
 
 ---
@@ -111,7 +111,7 @@ Engineering Manager / Engineering Leader with 12+ years of experience across bac
 
 ___
 
-### **Sofware Developer — Energotrans**  
+### **Software Developer — Energotrans**  
 **Dates:** 02.2013 – 01.2014 (1 years)   
 **Technologies Used:** MSSQL, JSP, Struts, Spring IoC, Spring Data, JSF, Primefaces, Hibernate, NetBeans, PHP
 **What Was Done:**
@@ -121,8 +121,8 @@ ___
 ---
 ## Education
 
-2009-2013 Master's degree. Computer science, network engineering. 
+2009-2013 **Master's degree.** in computer science, network engineering.
 _Donetsk National Technical University, Ukraine_
 
-2005-2009 Associate degree. Computer Software Engineering
+2005-2009 **Associate degree** in computer Software Engineering
 _Donetsk Polytechnic Technical School, Ukraine_
