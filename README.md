@@ -124,5 +124,5 @@ ___
 2009-2013 **Master's degree.** in computer science, network engineering.
 _Donetsk National Technical University, Ukraine_
 
-2005-2009 **Associate degree** in computer Software Engineering
+2005-2009 **Associate degree** in computer Software Engineering.
 _Donetsk Polytechnic Technical School, Ukraine_
