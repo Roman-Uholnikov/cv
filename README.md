@@ -1,4 +1,4 @@
-# Contact info
+## Contact info
 <img src="img/gmail1.png" width=15/> [ugolnikovroman@gmail.com](mailto:ugolnikovroman@gmail.com) · <img src="img/linkedin.png" width=15/> [linkedin.com/in/roman-uholnikov](https://www.linkedin.com/in/roman-uholnikov/) 
 
 ---
