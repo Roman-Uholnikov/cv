@@ -4,7 +4,7 @@
 ---
 
 ## Professional Summary
-Engineering Manager / Engineering Leader with 12+ years of experience across backend engineering, cloud infrastructure, mobile development, team leadership, and high‑scale system delivery. Experienced in Java ecosystems, Spring frameworks, distributed systems, AWS, DevOps tooling, and leading engineering teams within global technology companies.  
+Engineering Manager / Engineering Leader with 12+ years of experience across backend engineering, cloud infrastructure, mobile development, team leadership, and high‑scale system delivery. Experienced in Java ecosystems, Spring frameworks, distributed systems, AWS, DevOps tooling, and leading engineering multinational teams within global technology companies. Focused on people and output.
 
 ---
 ## Certifications 
@@ -26,17 +26,17 @@ Engineering Manager / Engineering Leader with 12+ years of experience across bac
 ### **Senior Engineering Manager — Affinidi**  
 **Location:** Singapore/Germany/Remote  
 **Dates:** 03.2024 – Present (2 years)   
-**Technologies Used:** SSI, cryptography, Identity, OID4vp , Ory (OAuth2 server), AWS (primarily serverless, CDK), Prometheus, K8N, ELK, HashiCorp Vault, Docker, NodeJs, Go, Dart, Rust, Flutter, PostgreSQL , Terraform
+**Technology stack:** SSI, cryptography, Identity, OID4vp , Ory (OAuth2 server), AWS (primarily serverless, CDK), Prometheus, K8s, ELK, HashiCorp Vault, Docker, NodeJs, Go, Dart, Rust, Flutter, PostgreSQL , Terraform
 
 **Key achievements:**
 - Took leadership of the overall Engineering department (~40 ppl), meanwhile managed stable and predictable delivery across the department via defining and aligning SSDLC across the engineering domain 
-- Build a diverse (20+ nationalities), High-Performing Team Culture by talent development, hiring, and performance management. Acted as a hiring manager for dozens of roles (from Interns to Engineering Managers).  
-- Contribute to architecture and code for scalable backend services and platform components. Enabled teams to be a self-sufficient engineering team that doesn't rely on external knowledge (platform). 
+- Built a diverse (20+ nationalities), High-Performing Team Culture by talent development, hiring, and performance management. Acted as a hiring manager for dozens of roles (from Interns to Engineering Managers).  
+- Contributed to architecture and code for scalable backend services and platform components. Enabled teams to be a self-sufficient engineering team that doesn't rely on external knowledge (platform). 
 - Organized company-wide workshops/hackathons/Demos required to keep the organization aligned, informed, and engaged
 - Driven high‑risk, business‑critical project delivery (different domains, mobile/backend/frontend) and mentored other managers to elevate execution standards.
-- Manage resource allocation and workload distribution to optimize team efficiency and productivity.
+- Managed resource allocation and workload distribution to optimize team efficiency and productivity.
 - Established and later restructured and unified on-call practice across the development department, bringing a consistent and well-organized on-call schedule and breaking knowledge silos across engineering teams. That reduced the number of external user incidents and reduced the reaction time on the incident
-- Restructured and reorganized way of working across the development department (teams setup, way of communicaiton, aligning on infromation flow), brought structure and clarity while keeping the engineering department flexible and adaptive to business requests. 
+- Restructured and reorganized way of working across the development department (teams setup, way of communication, aligning on information flow), brought structure and clarity while keeping the engineering department flexible and adaptive to business requests. 
 
 ### **Engineering Leader — Affinidi**  
 **Location:** Singapore/Germany/Remote  
@@ -45,7 +45,7 @@ Engineering Manager / Engineering Leader with 12+ years of experience across bac
 **Key achievements:**
 - Led up to 16 direct reports, overseeing performance, mentorship, and career progression to build a strong and resilient engineering team. 
 - Established "you build it, you own it" culture by introducing the team’s first-ever on‑call practice and equipped engineers with the tools, processes, and mindset needed to confidently support critical production infrastructure 24/7.
-- Contribute to architecture and code for scalable backend services and platform components. Enabled teams to be a self-sufficient engineering team that doesn't rely on external knowledge (platform). 
+- Contributed to architecture and code for scalable backend services and platform components. Enabled teams to be a self-sufficient engineering team that doesn't rely on external knowledge (platform). 
 - Organized team-wide workshops/Demos required to keep the team aligned, informed, and engaged
 - Drove high‑risk, business‑critical project delivery in a stable and predictable way
 - Bridged my team with other departments and integration partners to drive alignment, clarity, and smooth cross‑functional execution
@@ -54,7 +54,7 @@ Engineering Manager / Engineering Leader with 12+ years of experience across bac
 
 ### **Technical Lead — Nordstrom**  
 **Dates:** 06.2021 - 11.2021 (6 months) 
-**Technologies Used:** Java, Spring Framework, HashiCorp, K8N, Jenkins, Gradle, Terraform, AWS (DMS, Dynamo, S3, IAM, KMS, Lambda), MySQL,  
+**Technology stack:** Java, Spring Framework, HashiCorp, K8s, Jenkins, Gradle, Terraform, AWS (DMS, Dynamo, S3, IAM, KMS, Lambda), MySQL,  
 
 **Key achievements:**
 - Provided technical leadership contributing to system architecture and backend engineering in the team.  
@@ -63,7 +63,7 @@ Engineering Manager / Engineering Leader with 12+ years of experience across bac
 ---
 ### **Engineering Manager  — Conductor, Inc.**  
 **Dates:** 03.2019 – 06.2021 (2.3 years)  
-**Technologies Used:** Java, Spring (Core, MVC, Data, Cloud, Security), AWS, Docker/Kubernetes, Jenkins, GoCD, Selenium, Snowflake, Mockito, SQL/Transact SQL,  Contract tests (Spring, Pact), K8N, Istio, Helm, 
+**Technology stack:** Java, Spring (Core, MVC, Data, Cloud, Security), AWS, Docker/Kubernetes, Jenkins, GoCD, Selenium, Snowflake, Mockito, SQL/Transact SQL,  Contract tests (Spring, Pact), K8s, Istio, Helm, 
 
 **Key achievements:**
 - Led a team of 12 engineers in designing and delivering high‑scale, distributed software solutions.
@@ -75,7 +75,7 @@ Engineering Manager / Engineering Leader with 12+ years of experience across bac
 
 ### **Tech Lead — Conductor, Inc.**  
 **Dates:** 04.2018 – 03.2019 (1 year)  
-**Technologies Used:** Java, Spring (Core, MVC, Data, Cloud, Security), AWS, Docker/Kubernetes, Jenkins, GoCD, Selenium, Snowflake, Mockito, SQL/Transact SQL,  Contract tests (Spring, Pact), K8N, Istio, Helm, 
+**Technology stack:** Java, Spring (Core, MVC, Data, Cloud, Security), AWS, Docker/Kubernetes, Jenkins, GoCD, Selenium, Snowflake, Mockito, SQL/Transact SQL,  Contract tests (Spring, Pact), K8s, Istio, Helm, 
 
 **Key achievements:**
 - Led a team of 5 developers designing and implementing high‑scale software solutions. 
@@ -88,10 +88,10 @@ Engineering Manager / Engineering Leader with 12+ years of experience across bac
 
 ### **Senior Java Developer, Tech lead — Infopulse**  
 **Dates:** 09.2016 – 03.2018 (1.8 years)   
-**Technologies Used:** Java, Spring (Boot, Cloud, Config, MVC), MySQL, MSSQL, Selenium, Hibernate, Tomcat, Jenkins, Docker, Liquibase , JMS
+**Technology stack:** Java, Spring (Boot, Cloud, Config, MVC), MySQL, MSSQL, Selenium, Hibernate, Tomcat, Jenkins, Docker, Liquibase , JMS
 
 **Key achievements:**
-- Lead migration of 50+ SVN projects to Git
+- Led migration of 50+ SVN projects to Git
 - Delivered enterprise-grade Java backend solutions across multiple customer projects.  
 - Developed REST services, data integrations, and CMS-driven features.  
 - Improved automation and CI/CD pipelines with Jenkins, Docker, Liquibase. 
@@ -100,7 +100,7 @@ Engineering Manager / Engineering Leader with 12+ years of experience across bac
 
 ### **Java Developer — Levi9**  
 **Dates:** 02.2014 – 08.2016 (2.6 years)   
-**Technologies Used:** Hippo CMS, Java EE 6/8, JCR(Jackrabbit), Groovy, JSP, Tomcat 7, Maven 3, JUnit 4, Mockito, Java EE 8, Spring (Core, MVC, Security, Boot, Security), Hibernate, JSP, Gradle, REST Assured, RAML, Docker, Sonarqube, GoCD (CI), Liquibase 
+**Technology stack:** Hippo CMS, Java EE 6/8, JCR(Jackrabbit), Groovy, JSP, Tomcat 7, Maven 3, JUnit 4, Mockito, Java EE 8, Spring (Core, MVC, Security, Boot, Security), Hibernate, JSP, Gradle, REST Assured, RAML, Docker, Sonarqube, GoCD (CI), Liquibase 
 
 **Key achievements:**
 - Developed new functionality and modules, fixing bugs
@@ -113,7 +113,7 @@ ___
 
 ### **Software Developer — Energotrans**  
 **Dates:** 02.2013 – 01.2014 (1 years)   
-**Technologies Used:** MSSQL, JSP, Struts, Spring IoC, Spring Data, JSF, Primefaces, Hibernate, NetBeans, PHP
+**Technology stack:** MSSQL, JSP, Struts, Spring IoC, Spring Data, JSF, Primefaces, Hibernate, NetBeans, PHP
 
 **Key achievements:**
 - Migrated legacy software from Windows Desktop(.NET Framework + MSSQL) to Java Web Application 
