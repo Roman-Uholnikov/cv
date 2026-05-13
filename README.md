@@ -6,18 +6,6 @@
 ## Professional Summary
 Engineering Manager / Engineering Leader with 12+ years of experience across backend engineering, cloud infrastructure, mobile development, team leadership, and high‑scale system delivery. Experienced in Java ecosystems, Spring frameworks, distributed systems, AWS, DevOps tooling, and leading engineering multinational teams within global technology companies. Focused on people and output.
 
----
-## Certifications 
-<img src="img/sap.png" width=70/>
-<img src="img/sec.png" width=70/>
-<img src="img/saa.png" width=70/>
-
-- **AWS Certified Solutions Architect – Professional** — [AWS, issued 2020–2023](https://www.credly.com/badges/1cf4aca5-815b-4d2d-a2e6-63264191a87e/public_url) 
-- **AWS Certified Security – Specialty** — [AWS, issued 2019–2022](https://www.credly.com/badges/21dfb7c5-9556-4678-ae65-2b619e1a7d39/public_url)
-- **AWS Certified Solutions Architect – Associate** — [AWS, issued 2019–2022](https://www.credly.com/badges/0bbfe174-1ea6-4120-98e7-1a84d197c8de/public_url)
-- **IELTS Academic** — British Council, 2017–2019 · Cert ID: 17UA001017UHOR020A   
-- **Hippo Certified Developer** — Hippo CMS 
-
 
 ---
 
@@ -118,6 +106,18 @@ ___
 **Key achievements:**
 - Migrated legacy software from Windows Desktop(.NET Framework + MSSQL) to Java Web Application 
 - Designed (Transact SQL) storage procedures
+
+---
+## Certifications
+<img src="img/sap.png" width=70/>
+<img src="img/sec.png" width=70/>
+<img src="img/saa.png" width=70/>
+
+- **AWS Certified Solutions Architect – Professional** — [AWS, issued 2020–2023](https://www.credly.com/badges/1cf4aca5-815b-4d2d-a2e6-63264191a87e/public_url)
+- **AWS Certified Security – Specialty** — [AWS, issued 2019–2022](https://www.credly.com/badges/21dfb7c5-9556-4678-ae65-2b619e1a7d39/public_url)
+- **AWS Certified Solutions Architect – Associate** — [AWS, issued 2019–2022](https://www.credly.com/badges/0bbfe174-1ea6-4120-98e7-1a84d197c8de/public_url)
+- **IELTS Academic** — British Council, 2017–2019 · Cert ID: 17UA001017UHOR020A
+- **Hippo Certified Developer** — Hippo CMS
 
 ---
 ## Education
